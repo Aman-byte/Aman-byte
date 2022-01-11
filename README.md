@@ -8,7 +8,7 @@ Hi there, It's me Aman Pratap Singh 👋
 - 💬 Ask me about contribution/open source
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am bit funny.
+- ⚡ Fun fact: I am bit funny
 
 Programming Languages:-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
