@@ -5,10 +5,10 @@ Hi there, It's me Aman Pratap Singh 👋
 - 🌱 I’m currently learning C and C++ language focusing on Data Structres and Algorithms.
 - 👯 I’m looking to collaborate on projects which would help me use my current skills and build new ones.
 - 🤔 I’m looking for help with open source contributions. 
-- 💬 Ask me about contribution/open source
+- 💬 Ask me about contribution/open source.
 - 📫 How to reach me: amansagar1901@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am bit funny
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I am bit funny.
 
 Programming Languages:-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -31,13 +31,8 @@ Version Control:-
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Socials:-
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 add links or remove.....
 
