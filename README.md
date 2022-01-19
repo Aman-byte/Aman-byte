@@ -48,7 +48,8 @@ ADD databases and ML/DL work.
 ## Github contribution graph
 <img src="https://github.com/Aman-byte/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-byte&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 
-
+## current streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 
