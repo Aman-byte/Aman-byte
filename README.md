@@ -9,8 +9,6 @@
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am bit funny.
-- See My Hacktoberfest 2021 batch
-https://dev.to/badge/hacktoberfest-2021
 
 
 ### Programming Languages:-
