@@ -9,7 +9,7 @@
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am bit funny.
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-byte&theme=vue)
+
 
 ### Programming Languages:-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -56,6 +56,7 @@ ADD databases and ML/DL work.
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
