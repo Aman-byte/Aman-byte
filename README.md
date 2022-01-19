@@ -44,3 +44,7 @@ ADD databases and ML/DL work.
 ## Snake Eating my contribution graph
 
 ![snake gif](https://github.com/Aman-byte/Aman-byte/blob/output/github-contribution-grid-snake.gif)
+
+## Github contribution graph
+
+"https://github.com/Aman-byte/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-byte&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
