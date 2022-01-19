@@ -9,6 +9,8 @@
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am bit funny.
+- See My Hacktoberfest 2021 batch
+https://dev.to/badge/hacktoberfest-2021
 
 
 ### Programming Languages:-
@@ -56,7 +58,3 @@ ADD databases and ML/DL work.
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
-
-See My Hacktoberfest 2021 batch
-https://dev.to/badge/hacktoberfest-2021
-
