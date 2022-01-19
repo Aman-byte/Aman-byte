@@ -56,7 +56,3 @@ ADD databases and ML/DL work.
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
