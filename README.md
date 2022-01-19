@@ -51,5 +51,10 @@ ADD databases and ML/DL work.
 ## current streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+<a href="https://github.com/Aman-byte/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/Aman-byte/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
 
 
