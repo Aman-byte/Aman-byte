@@ -46,12 +46,9 @@ ADD databases and ML/DL work.
 ![snake gif](https://github.com/Aman-byte/Aman-byte/blob/output/github-contribution-grid-snake.gif)
 
 ## Github contribution graph
-
 <img src="https://github.com/Aman-byte/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aman-byte&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
 
-<img src="https://github.com/Aman-byte/github-readme-stats"><img alt="Aman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-byte&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" >
 
-Note:- Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
