@@ -46,7 +46,7 @@ ADD databases and ML/DL work.
 ![snake gif](https://github.com/Aman-byte/Aman-byte/blob/output/github-contribution-grid-snake.gif)
 
 ## Github contribution graph
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aman-byte&theme=dracula)](https://github.com/Aman-byte/github-readme-activity-graph)
+[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aman-byte&theme=react-dark)](https://github.com/Aman-byte/github-readme-activity-graph)
 
 ## current streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
