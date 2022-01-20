@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with open source contributions. 
 - 💬 Ask me about contribution/open source.
 - 📫 How to reach me: amansagar1901@gmail.com
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am bit funny.
 
 
