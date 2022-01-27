@@ -36,7 +36,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 # add links or remove.....for linked-in and gmail
-# remove gmail link....
+# remove gmail link
 
 ADD databases and ML/DL work.
 
