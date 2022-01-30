@@ -9,6 +9,9 @@
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am a bit hillarious
+- joji
+
+
 
 
 
