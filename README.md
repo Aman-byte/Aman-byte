@@ -10,6 +10,10 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am a bit hillarious
 
+## Socials(click on the badge)
+<a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:amansagar1901@gmail.com"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 ### Programming Languages:-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,8 +49,3 @@
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
-
-## Socials(click on the badge)
-<a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:amansagar1901@gmail.com"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
