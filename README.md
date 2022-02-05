@@ -10,6 +10,12 @@
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am a bit hillarious
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-byte" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aman-byte?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Aman-byte?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 ## Socials (click on the badge)
 <a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:amansagar1901@gmail.com"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -49,9 +55,3 @@
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-byte" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aman-byte?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Aman-byte?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
