@@ -49,3 +49,9 @@
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-byte" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aman-byte?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Aman-byte?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
