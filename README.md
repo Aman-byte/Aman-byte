@@ -1,3 +1,12 @@
+
+<img alt="Coding Gifs" height=750 width=1350 src="https://assets.materialup.com/uploads/4d9cbca5-a4b6-4d3b-b1c2-9a38db38ac78/preview.gif" />
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-byte" /> • 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aman-byte?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Aman-byte?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
 ## Hi there, It's me Aman Pratap Singh 👋
 
 
@@ -9,12 +18,6 @@
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I am a bit hillarious
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-byte" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Aman-byte?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Aman-byte?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
 
 ## Socials (click on the badge)
 <a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
