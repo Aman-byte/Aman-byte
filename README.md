@@ -58,3 +58,12 @@
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
+
+#### Daylily Random comic strip
+<!--START_SECTION:comicstrip-->
+<p align="center">
+ <a href="https://xkcd.com/">
+ <img src="https://imgs.xkcd.com/comics/party_quadrants.png" />
+</a>
+</p>
+<!--END_SECTION:comicstrip-->
