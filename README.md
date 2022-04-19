@@ -17,7 +17,7 @@
 - 💬 Ask me about contribution/open source.
 - 📫 How to reach me: amansagar1901@gmail.com
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I am a bit hillarious
+- ⚡ Fun fact: I am a bit hillarious.
 
 ## Socials (click on the badge)
 <a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
