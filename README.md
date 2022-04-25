@@ -49,6 +49,7 @@
 https://medium.com/@amansagar1901/save-21-days-by-learning-how-to-touch-type-touch-typing-guide-for-beginners-8b6774224675
 Add meduim badge and then profile
 add no of languages used bar graphs.
+Matlab used icon
 
 ## Snake Eating My Contribution Graph
 
