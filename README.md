@@ -62,3 +62,5 @@
 <a href="https://github.com/Aman-byte/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
 </a>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-byte&layout=compact)
