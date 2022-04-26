@@ -46,8 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Aman-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## Blogs
-https://medium.com/@amansagar1901/save-21-days-by-learning-how-to-touch-type-touch-typing-guide-for-beginners-8b6774224675
-Add meduim badge and then profile
+<a href="https://medium.com/@amansagar1901"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 add no of languages used bar graphs.
 Matlab used icon
 
