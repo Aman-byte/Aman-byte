@@ -23,6 +23,9 @@
 <a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:amansagar1901@gmail.com"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+## Blogs (click on the badge)
+<a href="https://medium.com/@amansagar1901"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+
 ### Programming Languages:-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,11 +47,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aman-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-## Blogs
-<a href="https://medium.com/@amansagar1901"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-add no of languages used bar graphs.
-Matlab used icon
 
 ## Snake Eating My Contribution Graph
 
