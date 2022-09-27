@@ -1,5 +1,5 @@
 
-<img alt="Coding Gifs" height=750 width=850 src="https://assets.materialup.com/uploads/4d9cbca5-a4b6-4d3b-b1c2-9a38db38ac78/preview.gif" />
+<img alt="Coding Gifs" height=500 width=850 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aman-byte&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-byte" /> • 
