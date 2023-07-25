@@ -7,18 +7,15 @@
   <img src="https://img.shields.io/github/stars/Aman-byte?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-## Hi there, It's me Aman Pratap Singh 👋
+## Greetings and salutations! I am Aman Pratap Singh and I would like to offer you a hearty welcome to my Github profile.
 
-
-- 🔭 I’m currently working on learning various skills which would help me to grow as a developer.
-- 🌱 I’m currently learning Java language focusing on Data Structres and Algorithms.
-- 👯 I’m looking to collaborate on projects which would help me use my current skills and build new ones.
-- 🤔 I’m looking for help with open source contributions. 
-- 💬 Ask me about contribution/open source.
+- 🔭 I am currently endeavoring to develop a diverse range of skills that will enable me to grow as a developer.
+- 🌱 I am presently engaged in learning the Java language with a particular focus on data structures and object-oriented programming.
+- 👯 I am actively seeking out projects to collaborate on that will allow me to leverage my current skill set while also affording me the opportunity to develop new proficiencies.
+- 🤔 I am in pursuit of open source projects that will enable me to put my skills to the test.
 - 📫 How to reach me: amansagar1901@gmail.com
-- 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I am a bit hillarious.
-
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The first computer bug was a real bug. It was a moth that was stuck in the Harvard Mark II computer in 1947.
 ## Socials (click on the badge)
 <a href="https://www.linkedin.com/in/aman-pratap-singh-707995164"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
