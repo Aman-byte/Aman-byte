@@ -48,14 +48,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aman-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-## Snake Eating My Contribution Graph
-
-![snake gif](https://github.com/Aman-byte/Aman-byte/blob/output/github-contribution-grid-snake.gif)
-
-## Github Contribution Graph
-[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aman-byte&theme=react-dark)](https://github.com/Aman-byte/github-readme-activity-graph)
-
 ## Current Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman-byte)](https://git.io/streak-stats)
 
