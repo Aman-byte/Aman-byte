@@ -48,12 +48,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aman-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-## Current Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman-byte)](https://git.io/streak-stats)
-
-<a href="https://github.com/Aman-byte/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/Aman-byte/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aman-byte&column=8&theme=flat&no-frame=true"/>
-</a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-byte&layout=compact)
