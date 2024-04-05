@@ -17,11 +17,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first computer bug was a real bug. It was a moth that was stuck in the Harvard Mark II computer in 1947.
 ## Socials (click on the badge)
-<a href="https://www.linkedin.com/in/amanpratapsingh19"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://aman-byte.github.io/">Visit my profile.
+<a href="https://www.linkedin.com/in/amanpratapsingh19"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
+<a href="https://aman-byte.github.io/">Visit my profile.</a>
 
 ## Blogs (click on the badge)
-<a href="https://medium.com/@amansagar1901"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/@amansagar1901"><img alt = "Language Grade: Javascript" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
 
 ### Technical Skills:-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
